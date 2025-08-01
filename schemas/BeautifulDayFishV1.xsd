@@ -1,6 +1,6 @@
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchems"
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
             xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-            targetNamespace="http://www.w3.org/2001/XMLSchems"
+            targetNamespace="http://www.w3.org/2001/XMLSchema"
             elementFormDefault="qualified" version="1.0">
   </xsd:element>
 </xsd:schema>
